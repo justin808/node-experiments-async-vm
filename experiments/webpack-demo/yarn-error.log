@@ -1,0 +1,48 @@
+Arguments: 
+  /Users/justin/.nvm/versions/node/v10.11.0/bin/node /usr/local/Cellar/yarn/1.9.4/libexec/bin/yarn.js
+
+PATH: 
+  /Users/justin/.nvm/versions/node/v10.11.0/bin:/Users/justin/.rvm/gems/ruby-2.4.3@rails5/bin:/Users/justin/.rvm/gems/ruby-2.4.3@global/bin:/Users/justin/.rvm/rubies/ruby-2.4.3/bin:/Users/justin/.rvm/bin:/Users/justin/.jenv/shims:/Applications/Postgres.app/Contents/Versions/latest/bin:/usr/local/bin:/usr/local/Cellar/emacs-mac/emacs-24.5-z-mac-5.13/bin:/usr/local/sbin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/HOME/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin:/Users/justin/Library/Android/sdk/platform-tools:/Users/justin/Dropbox/linux/config/bin:/usr/local/share/npm/bin
+
+Yarn version: 
+  1.9.4
+
+Node version: 
+  10.11.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com registry.yarnpkg.com:443
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+
+npm manifest: 
+  {
+    "name": "webpack-demo",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "webpack"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^0.18.0",
+      "babel-loader": "^8.0.4",
+      "@babel/core": "^7.1.2",
+      "@babel/preset-env": "^7.1.0",
+      "lodash": "^4.17.11",
+      "webpack": "^4.20.2",
+      "webpack-cli": "^3.1.2"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
