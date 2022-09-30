@@ -28,7 +28,7 @@ acorn-globals@^3.0.0:
 
 acorn@^3.1.0:
   version "3.3.0"
-  resolved "http://registry.npmjs.org/acorn/-/acorn-3.3.0.tgz#45e37fb39e8da3f25baee3ff5369e2bb5f22017a"
+  resolved "https://registry.npmjs.org/acorn/-/acorn-3.3.0.tgz#45e37fb39e8da3f25baee3ff5369e2bb5f22017a"
 
 acorn@^4.0.4, acorn@~4.0.2:
   version "4.0.13"
@@ -200,7 +200,7 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
 
 commander@2.8.x:
   version "2.8.1"
-  resolved "http://registry.npmjs.org/commander/-/commander-2.8.1.tgz#06be367febfda0c330aa1e2a072d3dc9762425d4"
+  resolved "https://registry.npmjs.org/commander/-/commander-2.8.1.tgz#06be367febfda0c330aa1e2a072d3dc9762425d4"
   dependencies:
     graceful-readlink ">= 1.0.0"
 
@@ -466,7 +466,7 @@ has@^1.0.1:
 
 http-errors@1.6.3, http-errors@~1.6.2, http-errors@~1.6.3:
   version "1.6.3"
-  resolved "http://registry.npmjs.org/http-errors/-/http-errors-1.6.3.tgz#8b55680bb4be283a0b5bf4ea2e38580be1d9320d"
+  resolved "https://registry.npmjs.org/http-errors/-/http-errors-1.6.3.tgz#8b55680bb4be283a0b5bf4ea2e38580be1d9320d"
   dependencies:
     depd "~1.1.2"
     inherits "2.0.3"
@@ -531,10 +531,10 @@ is-typedarray@~1.0.0:
   resolved "https://registry.yarnpkg.com/is-typedarray/-/is-typedarray-1.0.0.tgz#e479c80858df0c1b11ddda6940f96011fcda4a9a"
   integrity sha1-5HnICFjfDBsR3dppQPlgEfzaSpo=
 
-isolated-vm@^3.1.3:
-  version "3.1.3"
-  resolved "https://registry.yarnpkg.com/isolated-vm/-/isolated-vm-3.1.3.tgz#6c41a79bea200a4585432bd58e2c611546893128"
-  integrity sha512-+zA4qbL5TjT0Vczj2SrOnct9Hh8v+/QJue1/hSbal+sQtfdPmqFb1BCYVpFUkOLsJlLLc/OCq1KJMza9FXFucw==
+isolated-vm@^4.3.7:
+  version "4.3.7"
+  resolved "https://registry.yarnpkg.com/isolated-vm/-/isolated-vm-4.3.7.tgz#1adc82efcc6aa94597e28129c619ff19ad46ac04"
+  integrity sha512-tFMn2HwoSrwCfRdiNpNLn3ucaOlupyGd+C1X3aoqtpJxOLBLgWd6FQGLNXx/Ixmq8H0fWhj4tHaQSrB1ogreJQ==
 
 isstream@~0.1.2:
   version "0.1.2"
@@ -1077,7 +1077,7 @@ wordwrap@0.0.2:
 
 yargs@~3.10.0:
   version "3.10.0"
-  resolved "http://registry.npmjs.org/yargs/-/yargs-3.10.0.tgz#f7ee7bd857dd7c1d2d38c0e74efbd681d1431fd1"
+  resolved "https://registry.npmjs.org/yargs/-/yargs-3.10.0.tgz#f7ee7bd857dd7c1d2d38c0e74efbd681d1431fd1"
   dependencies:
     camelcase "^1.0.2"
     cliui "^2.1.0"
